@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Arushi Verma** , a passionate Computer Science engineering student at Nanyang Technological University. I am driven to transform complex challenges into tangible, impactful solutions. I see the vision, then build it with AI !
+I'm **Arushi Verma** 👩🏻‍💻 , a passionate Computer Science engineering student at Nanyang Technological University. I am driven to transform complex challenges into tangible, impactful solutions. I see the vision, then build it with AI !
 
 🔭 My current works revolve around the world of Agentic AI and LLMs (Transformers). I am big on scalability and user experience (UX) as well.
 
