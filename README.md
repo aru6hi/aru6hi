@@ -12,6 +12,5 @@ I'm **Arushi Verma** , a passionate Computer Science engineering student at Nany
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
