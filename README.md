@@ -12,5 +12,5 @@ I'm **Arushi Verma** 👩🏻‍💻 , a passionate Computer Science engineering
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-
+<!--END_SECTION:activity-->
 ---
