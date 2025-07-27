@@ -6,7 +6,8 @@ I'm **Arushi Verma** , a passionate Computer Science engineering student at Nany
 
 📫 Feel free to connect with me on 
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vermarushi) or reach out via email at **arushiverma050@gmail.com**.
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in/vermarushi) or reach out via email at [![Email Me](https://img.shields.io/badge/Gmail-%23EA4335
+)](arushiverma050@gmail.com) .
 
 ---
 
