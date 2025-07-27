@@ -8,9 +8,4 @@ I'm **Arushi Verma** 👩🏻‍💻 , a passionate Computer Science engineering
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in/vermarushi) or reach out via email at arushiverma050@gmail.com .
 
----
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
----
