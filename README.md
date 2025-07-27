@@ -12,6 +12,6 @@ I'm **Arushi Verma** 👩🏻‍💻 , a passionate Computer Science engineering
 
 ### 📈 My GitHub Stats
 
-![Metrics](https://github.com/aru6hi/aru6hi/blob/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/aru6hi/aru6hi/metrics/github-metrics.svg)
 
 ---
