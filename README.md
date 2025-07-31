@@ -8,10 +8,3 @@ I'm **Arushi Verma** 👩🏻‍💻 , a passionate Computer Science engineering
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5)](https://www.linkedin.com/in/vermarushi) or reach out via email at arushiverma050@gmail.com .
 
----
-
-### 📈 My GitHub Stats
-
-![Metrics](https://raw.githubusercontent.com/aru6hi/aru6hi/metrics/github-metrics.svg)
-
----
